@@ -4,11 +4,11 @@ Welcome to DataSage, where cutting-edge AI meets data analytics to provide you w
 
 🚀 Features
 
-	•	Advanced Data Processing: Clean, preprocess, and transform raw data into valuable insights.
-	•	Predictive Analytics: Leverage state-of-the-art machine learning models to predict future trends and outcomes.
-	•	Customizable Dashboards: Create and share intuitive visualizations to communicate insights effectively.
-	•	Automated Reporting: Generate comprehensive reports with a single click, saving time and ensuring accuracy.
-	•	Seamless Integration: Easily integrate with various data sources and third-party applications.
+	• Advanced Data Processing: Clean, preprocess, and transform raw data into valuable insights.
+	• Predictive Analytics: Leverage state-of-the-art machine learning models to predict future trends and outcomes.
+	• Customizable Dashboards: Create and share intuitive visualizations to communicate insights effectively.
+	• Automated Reporting: Generate comprehensive reports with a single click, saving time and ensuring accuracy.
+	• Seamless Integration: Easily integrate with various data sources and third-party applications.
 
 🛠️ Installation
 
